@@ -1,1 +1,1 @@
-# practic-spring
+# practice-spring
